@@ -2,4 +2,4 @@
 ## innledning
 samling av oppskrifter
 
-ingredienser
+[ingredienser] https://github.com/HansHinrichThedens/guac-oppskrift/blob/master/README.md
